@@ -1,0 +1,6 @@
+tensorflow
+numpy
+music21
+midiutil
+flask
+pickle-mixin
